@@ -1,7 +1,9 @@
-Odoo Telemarketing Application
+Odoo Dialer Application
 ====================
 
-[Asterisk IP-PBX](http://asterisk.org) based dialer for [Odoo](http://odoo.com). 
+## THIS APPLICATION IS DEPRICATED
+
+Here is the new currenly supported version: https://apps.odoo.com/apps/modules/13.0/asterisk_dialer
 
 ## Introduction
 This application is used to manage telemarketing campaigns e.g. call customers and playback a pre-recorded voice message or connect answered calls to operators. Other use cases are also possible as new features can be easily implemented using custom Asterisk dial plan.
